@@ -1,0 +1,45 @@
+.hero-img {
+    width: 100%;
+    height: auto;
+}
+
+.home-btn {
+    padding: 10px;
+    font-family: "Edu SA Hand", cursive;
+}
+
+ul {
+    display: block;
+
+    padding-left: 50px;
+    list-style-type: decimal;
+}
+
+h3 {
+    padding-left: 45px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-decoration: wavy underline;
+}
+
+p {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+li {
+    color: rgb(66, 94, 78);
+    font-size: 20px;
+    font-family: "Edu SA Hand", cursive;
+    font-weight: 700;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+ol {
+    padding-left: 50px;
+    list-style-type: decimal;
+}

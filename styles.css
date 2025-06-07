@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+    background-color: rgb(243, 224, 200);
+    color: rgb(27, 128, 102);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(66, 94, 78);
+}
+
+a:hover {
+    color: rgb(65, 172, 172); 
+}
+
+.main-heading {
+    background-color: rgb(65, 172, 172);
+    color: rgb(236, 229, 240);
+    padding:20px 10px;
+    font-size: 46px;
+    font-family: "Edu VIC WA NT Hand Pre", cursive;
+    
+}
+
+h2 {
+    background-color: rgba(220, 228, 209, 0.808);
+    color: rgb(66, 94, 78);
+    font-size: 28px;
+    font-family: "Edu SA Hand", cursive;
+    font-weight: 700;
+    margin: 0 0 20px 0;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
